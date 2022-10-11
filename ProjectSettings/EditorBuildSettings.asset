@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: b0e08f21e6cec234d94022826e973e49
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3725565001b380441ad61a0659c3243c
+  - enabled: 0
+    path: Assets/Scenes/Game.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: f2bc13c11c0452a47a7156643d9a9b75
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 06db4364d3a4bf1428b6a9cc269688f5
+  - enabled: 1
+    path: Assets/Scenes/Small Intestines.unity
+    guid: 7c98e91bbd5a77e499e1fb5920b65581
+  - enabled: 1
+    path: Assets/Scenes/Stomach.unity
+    guid: f6daba4ac3606074cadfc5a44df6b0a5
+  m_configObjects: {}
